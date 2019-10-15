@@ -1,2 +1,8 @@
-# lab-2
-software design and imp
+# SDI
+software design and implementation
+
+## project description
+
+## group
+
+##tutor
